@@ -1,4 +1,4 @@
-# git practice
+i# git practice
 
 ##subheading
 this is a paragraph of text
@@ -8,7 +8,7 @@ this is a paragraph of text
 -these get turned formatting later on
 
 
-
+This is a new line
 
 
 
